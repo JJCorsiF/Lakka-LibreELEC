@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/libretro/Lakka-LibreELEC)
+
 # Lakka - The DIY retro emulation console
 
 Lakka is a lightweight Linux distribution that transforms a small computer into a full blown emulation console.
